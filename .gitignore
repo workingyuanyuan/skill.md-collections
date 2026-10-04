@@ -1,0 +1,21 @@
+# 作業系統與編輯器
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+# 本機環境與機密設定
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Python 暫存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node.js 相依套件
+node_modules/
