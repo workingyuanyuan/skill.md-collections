@@ -1,0 +1,12 @@
+{
+  "name": "3d-textbook-engine",
+  "private": true,
+  "description": "3D 互動課本的建置與檢查工具。在章節資料夾外的工作目錄安裝，建置時用 NODE_MODULES 指過去。",
+  "dependencies": {
+    "esbuild": "0.28.2",
+    "n8ao": "2.0.1",
+    "playwright-core": "1.65.0",
+    "postprocessing": "6.39.6",
+    "three": "0.187.0"
+  }
+}
